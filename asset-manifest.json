@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyTodo-App/static/css/main.521f8192.css",
+    "main.js": "/MyTodo-App/static/js/main.b4e3ebb1.js",
+    "static/media/02.jpg": "/MyTodo-App/static/media/02.9d7814d11237a3449dfd.jpg",
+    "index.html": "/MyTodo-App/index.html",
+    "main.521f8192.css.map": "/MyTodo-App/static/css/main.521f8192.css.map",
+    "main.b4e3ebb1.js.map": "/MyTodo-App/static/js/main.b4e3ebb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521f8192.css",
+    "static/js/main.b4e3ebb1.js"
+  ]
+}
